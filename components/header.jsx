@@ -10,7 +10,7 @@ const navItems = [
     { linkText: 'Edge Function', href: '/edge' },
     { linkText: 'Blobs', href: '/blobs' },
     { linkText: 'Classics', href: '/classics' },
-    { linkText: 'Impressum', href: '/classics' }
+    { linkText: 'Impressum', href: '/impressum' }
 ];
 
 export function Header() {
